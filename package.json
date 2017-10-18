@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs/feathers-authentication.git"
+    "url": "git://github.com/TimMensch/feathers-authentication.git"
   },
   "author": {
     "name": "Feathers contributors",
