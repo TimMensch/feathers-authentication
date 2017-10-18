@@ -1,7 +1,7 @@
 {
-  "name": "feathers-authentication",
+  "name": "feathers-authentication-typescript-fix",
   "description": "Add Authentication to your FeathersJS app.",
-  "version": "1.2.7",
+  "version": "1.2.7-ts-1",
   "homepage": "https://github.com/feathersjs/feathers-authentication",
   "main": "lib/",
   "types": [
@@ -15,14 +15,16 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs/feathers-authentication.git"
+    "url": "git://github.com/TimMensch/feathers-authentication.git"
   },
   "author": {
     "name": "Feathers contributors",
     "email": "hello@feathersjs.com",
     "url": "https://feathersjs.com"
   },
-  "contributors": [],
+  "contributors": [
+    "Tim Mensch <tim-f-gh@bitgems.com>"
+  ],
   "bugs": {
     "url": "https://github.com/feathersjs/feathers-authentication/issues"
   },
